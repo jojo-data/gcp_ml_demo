@@ -1,7 +1,7 @@
 """Run `!pip install --upgrade google-api-python-client` in your console under this directory to install gcp ml api lib"""
 
 
-APIKEY="AIzaSyByrfnjgBrNbUwwtQa6go361SFQ6y82NVM"
+APIKEY="XXXXXXX"
 
 # running Translate API
 from googleapiclient.discovery import build
